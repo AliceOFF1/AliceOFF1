@@ -6,5 +6,5 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0C0C0C?style=for-the-badge&logo=AdobePhotoshop)
 ![Photoshop](https://img.shields.io/badge/-illustrator-0C0C0C?style=for-the-badge&logo=Adobeillustrator)
 ![jQuery](https://img.shields.io/badge/-jQuery-0C0C0C?style=for-the-badge&logo=jQuery)
-![SQL](https://img.shields.io/badge/-SQL-0C0C0C?style=for-the-badge&logo=SQL)
+![Jira](https://img.shields.io/badge/-Jira-0C0C0C?style=for-the-badge&logo=Jira)
 
