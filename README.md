@@ -7,5 +7,5 @@
 ![Photoshop](https://img.shields.io/badge/-illustrator-0C0C0C?style=for-the-badge&logo=Adobeillustrator)
 ![jQuery](https://img.shields.io/badge/-jQuery-0C0C0C?style=for-the-badge&logo=jQuery)
 ![Jira](https://img.shields.io/badge/-Jira-0C0C0C?style=for-the-badge&logo=Jira)
-![Apache JMeter](https://img.shields.io/badge/-Apache JMeter-0C0C0C?style=for-the-badge&logo=Apache JMeter)
+![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-0C0C0C?style=for-the-badge&logo=ApacheJMeter)
  
